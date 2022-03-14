@@ -1,10 +1,10 @@
 # Homework MMED 1056
-## Project 4: Responsive Web Design Media Query
+Project 4: Responsive Web Design Media Query
 <br>
-### Assignment Description:
+## Assignment Description:
 Create a basic example of a media query based on the specs below. You must follow best
-practice and work mobile first.
-### Assignment Requirements:
+practice and work mobile first.<br>
+## Assignment Requirements:
 Each student must create a single web page with a basic example of a media query.<br>
 Create Single Web Page (4 Columns)<br>
 At mobile size (remember mobile first)<br>
