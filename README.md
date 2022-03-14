@@ -12,7 +12,6 @@ At mobile size (remember mobile first)<br>
 - Columns 3 and 4 should be hidden<br>
 - Column 1 should be pink<br>
 - Column 2 should be red<br>
-At 641px the page will have<br>
-4 columns, equal width and display side by side.<br>
+At 641px the page will have 4 columns, equal width and display side by side.<br>
 Column 1 - blue, Column 2 - purple, Column 3 - grey, Column 4-brown.<br>
 The site should not expand beyond 1140px<br>
